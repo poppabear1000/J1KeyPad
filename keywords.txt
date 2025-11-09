@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for CAN library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+u32t_union_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+j1KeyPad_Start	KEYWORD2
+j1KeyPad_CheckKeys	KEYWORD2
+j1KeyPad_ScanKeys	KEYWORD2
+
+#######################################
+# Structures (KEYWORD3)
+#######################################
+
+j1KEYPAD_Params_t 	KEYWORD3
+j1KEYPAD_Ctrl_t		KEYWORD3
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+j1KEYPAD_MAXHIST	LITERAL1
